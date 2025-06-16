@@ -49,6 +49,18 @@ Some key visualizations include:
 - Top Agents by Listing Volume
 - Bedroom Count Pie Chart
 
+---
+
+## 📁 Project Structure
+
+real-estate-price-trends-lagos/
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter notebooks for analysis and visualization
+├── images/ # Exported plots for the README
+├── scripts/ # Python scripts for scraping and preprocessing
+├── README.md # Project documentation
+├── requirements.txt # Dependencies
+└── .ipynb_checkpoints/ # Jupyter checkpoints (ignore this if tracked)
 
 ---
 
