@@ -51,19 +51,6 @@ Some key visualizations include:
 
 ---
 
-## 📁 Project Structure
-
-real-estate-price-trends-lagos/
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for analysis and visualization
-├── images/ # Exported plots for the README
-├── scripts/ # Python scripts for scraping and preprocessing
-├── README.md # Project documentation
-├── requirements.txt # Dependencies
-└── .ipynb_checkpoints/ # Jupyter checkpoints (ignore this if tracked)
-
----
-
 ## 🧠 Skills Demonstrated
 
 - Web Scraping with BeautifulSoup
